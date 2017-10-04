@@ -1,1 +1,2 @@
-myNum1 = int(intput("please type in the first number"))
+myNum1 = int(input("please type in the first number"))
+myNum2 = int(input("please type in the second number"))
